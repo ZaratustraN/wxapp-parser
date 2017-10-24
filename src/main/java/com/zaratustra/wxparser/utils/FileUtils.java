@@ -1,4 +1,4 @@
-package com.zaratustra.wxparser.main;
+package com.zaratustra.wxparser.utils;
 
 import java.io.*;
 import java.lang.reflect.Array;

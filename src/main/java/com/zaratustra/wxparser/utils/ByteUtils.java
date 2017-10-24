@@ -1,6 +1,5 @@
-package com.zaratustra.wxparser.main;
+package com.zaratustra.wxparser.utils;
 
-import java.util.Locale;
 
 /**
  * Created by zaratustra on 2017/10/24.

@@ -2,9 +2,10 @@ package com.zaratustra.wxparser.main;
 
 import com.zaratustra.wxparser.model.WXAPPFile;
 import com.zaratustra.wxparser.model.WXAPPPackage;
+import com.zaratustra.wxparser.utils.ByteUtils;
+import com.zaratustra.wxparser.utils.FileUtils;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
 
